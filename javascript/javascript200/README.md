@@ -15,17 +15,18 @@
 |192~195|196~197|198~200
 
 ## PART 1
-* [웹 콘솔로 코드 실행하기](./part1/001.js)
-* [Node.js REPL로 코드 실행하기](./part1/002.js)
-* [Visual Studio Code로 프로그래밍하기 1](./part1/003.js)
-* [Visual Studio Code로 프로그래밍하기 2](./part1/004.js)
-* [값(value)과 변수(variable) 이해하기](./part1/005.js)
-* [자바스크립트 문장 배우기](./part1/006.js)
-* [자료형 이해하기](./part1/007.js)
-* [콘솔로 자료형 출력하기](./part1/008.js)
-* [조건문 배우기 - if](./part1/009.js)
-* [조건문 배우기 - if, else if, else](./part1/010.js)
-* 조건문 배우기 - switch
-* 반복문 배우기 - for
-* 반복문 배우기 - for in
-* 반복문 배우기 - while
+* [001 웹 콘솔로 코드 실행하기](./part1/001.js)
+* [002 Node.js REPL로 코드 실행하기](./part1/002.js)
+* [003 Visual Studio Code로 프로그래밍하기 1](./part1/003.js)
+* [004 Visual Studio Code로 프로그래밍하기 2](./part1/004.js)
+* [005 값(value)과 변수(variable) 이해하기](./part1/005.js)
+* [006 자바스크립트 문장 배우기](./part1/006.js)
+* [007 주석 처리하기](./part1/007.js)
+* [008 자료형 이해하기](./part1/008.js)
+* [009 콘솔로 자료형 출력하기](./part1/009.js)
+* [010 조건문 배우기 - if](./part1/010.js)
+* [011 조건문 배우기 - if, else if, else]()
+* 012 조건문 배우기 - switch
+* 013 반복문 배우기 - for
+* 014 반복문 배우기 - for in
+* 015 반복문 배우기 - while
