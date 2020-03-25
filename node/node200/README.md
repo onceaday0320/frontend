@@ -16,12 +16,12 @@
 * [013 나머지 구하기 – 홀수, 짝수 판단](./part1/013.js)
 * [014 문자열 개수 세기 length](./part1/014.js)
 * [015 해당 문자열 찾기 indexOf()](./part1/015.js)
-* 016 배열(array) 선언하기
-* 017 배열(array)에 값 넣기
-* 018 배열(array) 출력하기
-* 019 JSON이란?
-* 020 JSON에서 값 뽑기, 필드 추가하기
-* 021 typeof로 변수의 타입(형) 알아보기
+* [016 배열(array) 선언하기](./part1/016.js)
+* [017 배열(array)에 값 넣기](./part1/017.js)
+* [018 배열(array) 출력하기](./part1/018.js)
+* [019 JSON이란?](./part1/019.js)
+* [020 JSON에서 값 뽑기, 필드 추가하기](./part1/020.js)
+* [021 typeof로 변수의 타입(형) 알아보기](./part1/021.js)
 * 022 true, false Boolean(불리언)
 * 023 증감연산자
 * 024 비교연산자(Comparison Operator)
